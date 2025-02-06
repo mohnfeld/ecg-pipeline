@@ -1,2 +1,4 @@
 .venv
 r_peaks
+.ipynb_checkpoints
+__pycache__
